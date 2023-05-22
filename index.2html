@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head></head>
+     <body> <table border="1" weight="400" height="400" align="center" cellpedding="20" cellspacing="40"> <caption>STUDENTLIST</caption>
+     <tr align="center"> <td>Sl.No.</td>
+          <td>Name</td>
+          <td>Roll</td>
+          <td>Class</td>
+     </tr>
+          <tr align="center"><td bgcolor="green">1</td>
+          <td>Asma</td>
+          <td>01</td>
+          <td>XI</td>
+     </tr>
+     <tr align="center">
+          <td bgcolor="red">2</td>
+          <td>Ruksana</td>
+          <td>02</td>
+          <td>XI</td>
+     </tr>
+     <tr align="center">
+          <td bgcolor="blue">3</td>
+          <td>Arpha</td>
+          <td>03</td>
+          <td>XI</td>
+     </tr>
+     <tr>
+          <td align="center">&copy;</td>
+          <td><img src="https://www.thestatesman.com/wp-content/uploads/2022/04/Untitled-design-3-1.png" width="100" height="100" alt=""></td>
+     </tr>
+      </table>
+     </body>
+</html>
